@@ -38,4 +38,4 @@ java Main
 - Now you can start chatting with both terminals instances.
 - Here is the preview
 
-<img src="./preview.png">
+<img src="https://ashstudy.000webhostapp.com/anurag/images/preview-javaSocket-ChatApp.png">
